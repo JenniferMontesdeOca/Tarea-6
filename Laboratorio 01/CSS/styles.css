@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+}
+h2 {
+    text-align: center;
+}
+pre {
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 5px;
+}
